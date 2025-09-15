@@ -17,5 +17,6 @@ function mostrarDados() {
     const linguagensTexto = linguagens.length > 0 ? linguagens.join(', ') : "Nenhuma";
 
     const estado = document.getElementById('iptEstado').value;
-
 }
+
+//JS NÃO FUNCIONAL E NÃO CORRIGIDO ><
